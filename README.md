@@ -2,6 +2,7 @@
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=github)
 
+Thanks for visiting ❤️
 ![Visitor Count](https://profile-counter.glitch.me/{Mystic-peng}/count.svg)
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Mystic-peng&show_icons=true&theme=tokyonight)
