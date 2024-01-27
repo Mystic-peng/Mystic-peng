@@ -24,9 +24,14 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mystic-peng" alt="Mystic-peng" /></a>
 </p>
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Mystic-peng/Mystic-peng&type=Date)](https://star-history.com/#Mystic-peng/Mystic-peng&Date)
+
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
-Would you ike to meet me?
+Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
