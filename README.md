@@ -6,15 +6,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tianyu;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
   *Thanks for visiting.* ❤️
-![Visitor Count](https://profile-counter.glitch.me/{Mystic-peng}/count.svg)
+![](https://count.getloli.com/get/@Mystic-peng.github.readme)
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Mystic-peng&show_icons=true&theme=tokyonight)
 
 ![github统计](https://stats.justsong.cn/api/github?username=Mystic-peng&theme=dark&lang=zh-CN)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mystic-peng)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://count.getloli.com/get/@Mystic-peng.github.readme)
 
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
