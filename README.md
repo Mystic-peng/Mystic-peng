@@ -20,11 +20,6 @@
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mystic-peng" alt="Mystic-peng" /></a>
 </p>
