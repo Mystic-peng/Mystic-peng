@@ -12,6 +12,8 @@ Thanks for visiting ❤️
 
 ![github统计](https://stats.justsong.cn/api/github?username=Mystic-peng&theme=dark&lang=zh-CN)
 
+https://github-profile-trophy.vercel.app/?username=Mystic-peng=algolia
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mystic-peng/Mystic-peng/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mystic-peng/Mystic-peng/output/github-contribution-grid-snake.svg">
