@@ -16,8 +16,18 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=Mystic-peng&theme=dark&lang=zh-CN)
 
-      Trophy: Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mystic-peng)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mystic-peng" alt="Mystic-peng" /></a>
+</p>
 
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
