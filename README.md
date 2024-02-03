@@ -27,7 +27,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mystic-peng/Mystic-peng&type=Date)](https://star-history.com/#Mystic-peng/Mystic-peng&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Tianyu/Tianyu&type=Date)](https://star-history.com/#Tianyu/Tianyu&Date)
 
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
