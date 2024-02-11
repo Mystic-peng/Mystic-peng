@@ -18,7 +18,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tianyu;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
   *Thanks for visiting.* ❤️
-![](https://count.getloli.com/get/@Mystic-peng.github.readme)
+![](https://count.getloli.com/get/@Mystic-peng.github.readme
+
+## Learning 👩‍💻
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex,html,css,javascript,c,figma,python,java,linux,wordpress,ruby" />
+</p>
+
+## Connect with me   
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  I'm enthusiastic about <strong>ICT</strong>.<br>
+I am currently a student at the Faculty of Engineering at UNAM, acquiring new skills and learning many things.
+</p>
+
+<p align="left">
+
 
 ## GitHub Stats  
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Mystic-peng&show_icons=true&theme=tokyonight)
@@ -49,9 +67,7 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kikps6b9x177yc905eknsds4z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-<br/>  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+<br/> 
 
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
