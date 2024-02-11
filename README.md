@@ -2,6 +2,16 @@
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=github)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e9/8a/c7/e98ac742c2ca7af243c89743b6cd6de3.gif" align="center" style="width: 100%" />
+</div>  
+
+## <div align="center">I'm Michelle (:</div>  
+
+<br/>  
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
@@ -12,6 +22,7 @@
   *Thanks for visiting.* ❤️
 ![](https://count.getloli.com/get/@Mystic-peng.github.readme)
 
+## GitHub Stats  
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Mystic-peng&show_icons=true&theme=tokyonight)
 
 ![github统计](https://stats.justsong.cn/api/github?username=Mystic-peng&theme=dark&lang=zh-CN)
@@ -27,6 +38,22 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tianyu/Tianyu&type=Date)](https://star-history.com/#Tianyu/Tianyu&Date)
+
+##   
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x5d2JzaDhvMTRwd2Vib2dubWlqMmplbGdqcXNteXZqOXM5eHMyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=milliyx&style=flat-square" align="center" />
+</div>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kikps6b9x177yc905eknsds4z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<br/>  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
