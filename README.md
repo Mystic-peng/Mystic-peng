@@ -24,8 +24,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mystic-peng" alt="Mystic-peng" /></a>
 </p>
 
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tianyu/Tianyu&type=Date)](https://star-history.com/#Tianyu/Tianyu&Date)
