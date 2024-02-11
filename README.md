@@ -2,8 +2,6 @@
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=github)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/e9/8a/c7/e98ac742c2ca7af243c89743b6cd6de3.gif" align="center" style="width: 100%" />
 </div>  
