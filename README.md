@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/e9/8a/c7/e98ac742c2ca7af243c89743b6cd6de3.gif" align="center" style="width: 100%" />
 </div>  
 
-## <div align="center">I'm Michelle (:</div>  
+## <div align="center">I'm Tianyu (:</div>  
 
 <br/>  
 
